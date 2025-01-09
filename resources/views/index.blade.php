@@ -26,7 +26,7 @@
           <div class="slideshow-text container position-absolute start-50 top-50 translate-middle">
             <h6 class="text_dash text-uppercase fs-base fw-medium animate animate_fade animate_btt animate_delay-3">
               New Arrivals</h6>
-            <h2 class="h1 fw-normal mb-0 animate animate_fade animate_btt animate_delay-5">Night Spring</h2>
+            <h2 class="h1 fw-normal mb-0 animate animate_fade animate_btt animate_delay-5">Birthday cake</h2>
             <h2 class="h1 fw-bold animate animate_fade animate_btt animate_delay-5">Cake</h2>
             <a href="#"
               class="btn-link btn-link_lg default-underline fw-medium animate animate_fade animate_btt animate_delay-7">Shop
@@ -49,7 +49,7 @@
           <div class="slideshow-text container position-absolute start-50 top-50 translate-middle">
             <h6 class="text_dash text-uppercase fs-base fw-medium animate animate_fade animate_btt animate_delay-3">
               New Arrivals</h6>
-            <h2 class="h1 fw-normal mb-0 animate animate_fade animate_btt animate_delay-5">Night Spring</h2>
+            <h2 class="h1 fw-normal mb-0 animate animate_fade animate_btt animate_delay-5">Cupcake</h2>
             <h2 class="h1 fw-bold animate animate_fade animate_btt animate_delay-5">Cake</h2>
             <a href="#"
               class="btn-link btn-link_lg default-underline fw-medium animate animate_fade animate_btt animate_delay-7">Shop
@@ -68,7 +68,7 @@
           <div class="slideshow-text container position-absolute start-50 top-50 translate-middle">
             <h6 class="text_dash text-uppercase fs-base fw-medium animate animate_fade animate_btt animate_delay-3">
               New Arrivals</h6>
-            <h2 class="h1 fw-normal mb-0 animate animate_fade animate_btt animate_delay-5">Night Spring</h2>
+            <h2 class="h1 fw-normal mb-0 animate animate_fade animate_btt animate_delay-5">Signature</h2>
             <h2 class="h1 fw-bold animate animate_fade animate_btt animate_delay-5">Cake</h2>
             <a href="#"
               class="btn-link btn-link_lg default-underline fw-medium animate animate_fade animate_btt animate_delay-7">Shop
@@ -132,56 +132,56 @@
               <img loading="lazy" class="w-100 h-auto mb-3" src="assets/images/home/demo3/category_1.jpg" width="124"
                 height="124" alt="" />
               <div class="text-center">
-                <a href="#" class="menu-link fw-medium">Women<br />Tops</a>
+                <a href="#" class="menu-link fw-medium">Birthday Cake<br />chocholate</a>
               </div>
             </div>
             <div class="swiper-slide">
               <img loading="lazy" class="w-100 h-auto mb-3" src="assets/images/home/demo3/category_2.jpg" width="124"
                 height="124" alt="" />
               <div class="text-center">
-                <a href="#" class="menu-link fw-medium">Women<br />Pants</a>
+                <a href="#" class="menu-link fw-medium">Birthday Cake<br />Blackforest</a>
               </div>
             </div>
             <div class="swiper-slide">
               <img loading="lazy" class="w-100 h-auto mb-3" src="assets/images/home/demo3/category_3.jpg" width="124"
                 height="124" alt="" />
               <div class="text-center">
-                <a href="#" class="menu-link fw-medium">Women<br />Clothes</a>
+                <a href="#" class="menu-link fw-medium">Birthday Cake<br />Lotus</a>
               </div>
             </div>
             <div class="swiper-slide">
               <img loading="lazy" class="w-100 h-auto mb-3" src="assets/images/home/demo3/category_4.jpg" width="124"
                 height="124" alt="" />
               <div class="text-center">
-                <a href="#" class="menu-link fw-medium">Men<br />Jeans</a>
+                <a href="#" class="menu-link fw-medium">Birthday<br />Brownies</a>
               </div>
             </div>
             <div class="swiper-slide">
               <img loading="lazy" class="w-100 h-auto mb-3" src="assets/images/home/demo3/category_5.jpg" width="124"
                 height="124" alt="" />
               <div class="text-center">
-                <a href="#" class="menu-link fw-medium">Men<br />Shirts</a>
+                <a href="#" class="menu-link fw-medium">Birthday<br />Oreo</a>
               </div>
             </div>
             <div class="swiper-slide">
               <img loading="lazy" class="w-100 h-auto mb-3" src="assets/images/home/demo3/category_6.jpg" width="124"
                 height="124" alt="" />
               <div class="text-center">
-                <a href="#" class="menu-link fw-medium">Men<br />Shoes</a>
+                <a href="#" class="menu-link fw-medium">Brownies<br />box</a>
               </div>
             </div>
             <div class="swiper-slide">
               <img loading="lazy" class="w-100 h-auto mb-3" src="assets/images/home/demo3/category_7.jpg" width="124"
                 height="124" alt="" />
               <div class="text-center">
-                <a href="#" class="menu-link fw-medium">Women<br />Cake</a>
+                <a href="#" class="menu-link fw-medium">brownies<br />Almond</a>
               </div>
             </div>
             <div class="swiper-slide">
               <img loading="lazy" class="w-100 h-auto mb-3" src="assets/images/home/demo3/category_8.jpg" width="124"
                 height="124" alt="" />
               <div class="text-center">
-                <a href="#" class="menu-link fw-medium">Kids<br />Tops</a>
+                <a href="#" class="menu-link fw-medium">Birthday<br />Red velvet</a>
               </div>
             </div>
           </div><!-- /.swiper-wrapper -->
@@ -209,7 +209,7 @@
       <div class="row">
         <div
           class="col-md-6 col-lg-4 col-xl-20per d-flex align-items-center flex-column justify-content-center py-4 align-items-md-start">
-          <h2>Summer Sale</h2>
+          <h2>Birthday Sale</h2>
           <h2 class="fw-bold">Up to 60% Off</h2>
 
           <div class="position-relative d-flex align-items-center text-center pt-xxl-4 js-countdown mb-3"
@@ -284,9 +284,9 @@
                   </div>
 
                   <div class="pc__info position-relative">
-                    <h6 class="pc__title"><a href="details.html">Cropped Faux Leather Jacket</a></h6>
+                    <h6 class="pc__title"><a href="details.html">Bolu Gulung</a></h6>
                     <div class="product-card__price d-flex">
-                      <span class="money price text-secondary">$29</span>
+                      <span class="money price text-secondary">Rp5.000</span>
                     </div>
 
                     <div
@@ -321,9 +321,9 @@
                   </div>
 
                   <div class="pc__info position-relative">
-                    <h6 class="pc__title"><a href="details.html">Calvin Shorts</a></h6>
+                    <h6 class="pc__title"><a href="details.html">Paket</a></h6>
                     <div class="product-card__price d-flex">
-                      <span class="money price text-secondary">$62</span>
+                      <span class="money price text-secondary">Rp25.000</span>
                     </div>
 
                     <div
@@ -358,9 +358,9 @@
                   </div>
 
                   <div class="pc__info position-relative">
-                    <h6 class="pc__title"><a href="details.html">Kirby T-Shirt</a></h6>
+                    <h6 class="pc__title"><a href="details.html">Traditional Cake</a></h6>
                     <div class="product-card__price d-flex">
-                      <span class="money price text-secondary">$62</span>
+                      <span class="money price text-secondary">Rp150.000</span>
                     </div>
 
                     <div
@@ -395,10 +395,10 @@
                   </div>
 
                   <div class="pc__info position-relative">
-                    <h6 class="pc__title"><a href="details.html">Cableknit Shawl</a></h6>
+                    <h6 class="pc__title"><a href="details.html">Traditional cake</a></h6>
                     <div class="product-card__price d-flex align-items-center">
-                      <span class="money price-old">$129</span>
-                      <span class="money price text-secondary">$99</span>
+                      <span class="money price-old">Rp150.000</span>
+                      <span class="money price text-secondary">Rp100.000</span>
                     </div>
 
                     <div
@@ -433,9 +433,9 @@
                   </div>
 
                   <div class="pc__info position-relative">
-                    <h6 class="pc__title"><a href="details.html">Cropped Faux Leather Jacket</a></h6>
+                    <h6 class="pc__title"><a href="details.html">Bolu gulung</a></h6>
                     <div class="product-card__price d-flex">
-                      <span class="money price text-secondary">$29</span>
+                      <span class="money price text-secondary">Rp5000</span>
                     </div>
 
                     <div
@@ -470,9 +470,9 @@
                   </div>
 
                   <div class="pc__info position-relative">
-                    <h6 class="pc__title"><a href="details.html">Calvin Shorts</a></h6>
+                    <h6 class="pc__title"><a href="details.html">Paket A</a></h6>
                     <div class="product-card__price d-flex">
-                      <span class="money price text-secondary">$62</span>
+                      <span class="money price text-secondary">Rp25.0000</span>
                     </div>
 
                     <div
@@ -506,69 +506,6 @@
                     </a>
                   </div>
 
-                  <div class="pc__info position-relative">
-                    <h6 class="pc__title"><a href="details.html">Kirby T-Shirt</a></h6>
-                    <div class="product-card__price d-flex">
-                      <span class="money price text-secondary">$62</span>
-                    </div>
-
-                    <div
-                      class="anim_appear-bottom position-absolute bottom-0 start-0 d-none d-sm-flex align-items-center bg-body">
-                      <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-add-cart js-open-aside"
-                        data-aside="cartDrawer" title="Add To Cart">Add To Cart</button>
-                      <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-quick-view"
-                        data-bs-toggle="modal" data-bs-target="#quickView" title="Quick view">
-                        <span class="d-none d-xxl-block">Quick View</span>
-                        <span class="d-block d-xxl-none"><svg width="18" height="18" viewBox="0 0 18 18" fill="none"
-                            xmlns="http://www.w3.org/2000/svg">
-                            <use href="#icon_view" />
-                          </svg></span>
-                      </button>
-                      <button class="pc__btn-wl bg-transparent border-0 js-add-wishlist" title="Add To Wishlist">
-                        <svg width="16" height="16" viewBox="0 0 20 20" fill="none"
-                          xmlns="http://www.w3.org/2000/svg">
-                          <use href="#icon_heart" />
-                        </svg>
-                      </button>
-                    </div>
-                  </div>
-                </div>
-                <div class="swiper-slide product-card product-card_style3">
-                  <div class="pc__img-wrapper">
-                    <a href="details.html">
-                      <img loading="lazy" src="assets/images/home/demo3/product-3-1.jpg" width="258" height="313"
-                        alt="Cropped Faux leather Jacket" class="pc__img">
-                      <img loading="lazy" src="assets/images/home/demo3/product-3-2.jpg" width="258" height="313"
-                        alt="Cropped Faux leather Jacket" class="pc__img pc__img-second">
-                    </a>
-                  </div>
-
-                  <div class="pc__info position-relative">
-                    <h6 class="pc__title"><a href="details.html">Cableknit Shawl</a></h6>
-                    <div class="product-card__price d-flex align-items-center">
-                      <span class="money price-old">$129</span>
-                      <span class="money price text-secondary">$99</span>
-                    </div>
-
-                    <div
-                      class="anim_appear-bottom position-absolute bottom-0 start-0 d-none d-sm-flex align-items-center bg-body">
-                      <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-add-cart js-open-aside"
-                        data-aside="cartDrawer" title="Add To Cart">Add To Cart</button>
-                      <button class="btn-link btn-link_lg me-4 text-uppercase fw-medium js-quick-view"
-                        data-bs-toggle="modal" data-bs-target="#quickView" title="Quick view">
-                        <span class="d-none d-xxl-block">Quick View</span>
-                        <span class="d-block d-xxl-none"><svg width="18" height="18" viewBox="0 0 18 18" fill="none"
-                            xmlns="http://www.w3.org/2000/svg">
-                            <use href="#icon_view" />
-                          </svg></span>
-                      </button>
-                      <button class="pc__btn-wl bg-transparent border-0 js-add-wishlist" title="Add To Wishlist">
-                        <svg width="16" height="16" viewBox="0 0 20 20" fill="none"
-                          xmlns="http://www.w3.org/2000/svg">
-                          <use href="#icon_heart" />
-                        </svg>
-                      </button>
-                    </div>
                   </div>
                 </div>
               </div><!-- /.swiper-wrapper -->
@@ -587,23 +524,23 @@
             <img loading="lazy" class="h-auto" src="assets/images/home/demo3/category_9.jpg" width="690" height="665"
               alt="" />
             <div class="category-banner__item-mark">
-              Starting at $19
+              Starting at Rp250.0000
             </div>
             <div class="category-banner__item-content">
-              <h3 class="mb-0">Blazers</h3>
+              <h3 class="mb-0">Custom Cake</h3>
               <a href="#" class="btn-link default-underline text-uppercase fw-medium">Shop Now</a>
             </div>
           </div>
         </div>
         <div class="col-md-6">
           <div class="category-banner__item border-radius-10 mb-5">
-            <img loading="lazy" class="h-auto" src="assets/images/home/demo3/category_10.png" width="690" height="665"
+            <img loading="lazy" class="h-auto" src="assets/images/home/demo3/category_10.jpg" width="690" height="665"
               alt="" />
             <div class="category-banner__item-mark">
-              Starting at $19
+              Starting at Rp200.000
             </div>
             <div class="category-banner__item-content">
-              <h3 class="mb-0">Sportswear</h3>
+              <h3 class="mb-0">Aniversarry Cake</h3>
               <a href="#" class="btn-link default-underline text-uppercase fw-medium">Shop Now</a>
             </div>
           </div>
@@ -627,9 +564,9 @@
             </div>
 
             <div class="pc__info position-relative">
-              <h6 class="pc__title"><a href="details.html">Cropped Faux Leather Jacket</a></h6>
+              <h6 class="pc__title"><a href="details.html">Traditional Cake Mix </a></h6>
               <div class="product-card__price d-flex align-items-center">
-                <span class="money price text-secondary">$29</span>
+                <span class="money price text-secondary">Rp150.000</span>
               </div>
 
               <div
@@ -663,9 +600,9 @@
             </div>
 
             <div class="pc__info position-relative">
-              <h6 class="pc__title"><a href="details.html">Calvin Shorts</a></h6>
+              <h6 class="pc__title"><a href="details.html">Traditional Cake Mix 2</a></h6>
               <div class="product-card__price d-flex align-items-center">
-                <span class="money price text-secondary">$62</span>
+                <span class="money price text-secondary">Rp165.000</span>
               </div>
 
               <div
@@ -700,9 +637,9 @@
             </div>
 
             <div class="pc__info position-relative">
-              <h6 class="pc__title"><a href="details.html">Kirby T-Shirt</a></h6>
+              <h6 class="pc__title"><a href="details.html">Bolu Gulung</a></h6>
               <div class="product-card__price d-flex align-items-center">
-                <span class="money price text-secondary">$17</span>
+                <span class="money price text-secondary">Rp.2500</span>
               </div>
 
               <div
@@ -737,10 +674,10 @@
             </div>
 
             <div class="pc__info position-relative">
-              <h6 class="pc__title">Cableknit Shawl</h6>
+              <h6 class="pc__title">Birthday Cake</h6>
               <div class="product-card__price d-flex align-items-center">
-                <span class="money price-old">$129</span>
-                <span class="money price text-secondary">$99</span>
+                <span class="money price-old">Rp250.000</span>
+                <span class="money price text-secondary">Rp150.000</span>
               </div>
 
               <div
@@ -774,9 +711,9 @@
             </div>
 
             <div class="pc__info position-relative">
-              <h6 class="pc__title"><a href="details.html">Cropped Faux Leather Jacket</a></h6>
+              <h6 class="pc__title"><a href="details.html">Fruit Birthday cake</a></h6>
               <div class="product-card__price d-flex align-items-center">
-                <span class="money price text-secondary">$29</span>
+                <span class="money price text-secondary">Rp145.000</span>
               </div>
 
               <div
@@ -810,9 +747,9 @@
             </div>
 
             <div class="pc__info position-relative">
-              <h6 class="pc__title"><a href="details.html">Calvin Shorts</a></h6>
+              <h6 class="pc__title"><a href="details.html">Anniversary cake</a></h6>
               <div class="product-card__price d-flex align-items-center">
-                <span class="money price text-secondary">$62</span>
+                <span class="money price text-secondary">Rp200.000</span>
               </div>
 
               <div
@@ -846,9 +783,9 @@
             </div>
 
             <div class="pc__info position-relative">
-              <h6 class="pc__title"><a href="details.html">Kirby T-Shirt</a></h6>
+              <h6 class="pc__title"><a href="details.html">Brownies</a></h6>
               <div class="product-card__price d-flex align-items-center">
-                <span class="money price text-secondary">$17</span>
+                <span class="money price text-secondary">Rp120.000</span>
               </div>
 
               <div
@@ -882,10 +819,10 @@
             </div>
 
             <div class="pc__info position-relative">
-              <h6 class="pc__title">Cableknit Shawl</h6>
+              <h6 class="pc__title">Paket</h6>
               <div class="product-card__price d-flex align-items-center">
-                <span class="money price-old">$129</span>
-                <span class="money price text-secondary">$99</span>
+                <span class="money price-old">Rp25.000</span>
+                <span class="money price text-secondary">Rp20.000</span>
               </div>
 
               <div

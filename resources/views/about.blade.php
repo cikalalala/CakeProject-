@@ -23,10 +23,10 @@
             <div class="row align-items-center">
                 <div class="col-md-6">
                     <h2>Our Story</h2>
-                    <p>Mel's Cake started as a small home bakery in Siak, Riau, with a vision to bring joy through delicious, homemade cakes. Today, we’ve grown into a trusted bakery, known for our quality ingredients, artistic designs, and dedication to customer satisfaction.</p>
+                    <p>Mel's Cake started as a small home bakery in Pangkalan Kerinci, Riau, with a vision to bring joy through delicious, homemade cakes. Today, we’ve grown into a trusted bakery, known for our quality ingredients, artistic designs, and dedication to customer satisfaction.</p>
                 </div>
                 <div class="col-md-6">
-                    <img src="{{ asset('assets/images/mels-cake.jpg') }}" alt="Mel's Cake" class="img-fluid rounded">
+                    <img src="{{ asset('assets/images/shop/shop_banner3.jpg') }}" alt="Mel's Cake" class="img-fluid rounded">
                 </div>
             </div>
         </div>
@@ -62,10 +62,10 @@
             <div class="row justify-content-center">
                 <div class="col-md-4 text-center">
                     <div class="team-member">
-                        <img src="{{ asset('assets/images/baker.jpg') }}" alt="Mel's Cake Baker" class="img-fluid rounded-circle mb-3">
+                        <img src="{{ asset('assets/images/shop/Owner.jpg') }}" alt="Mel's Cake Baker" class="img-fluid rounded-circle mb-3">
                         <h3>Melly Putriyani</h3>
                         <p>Founder & Head Baker</p>
-                        <p>With years of experience in baking and a passion for art, Melinda creates cakes that are both visually stunning and delicious.</p>
+                        <p>With years of experience in baking and a passion for art, Melly creates cakes that are both visually stunning and delicious.</p>
                     </div>
                 </div>
             </div>

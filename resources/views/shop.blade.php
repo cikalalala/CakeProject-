@@ -25,11 +25,8 @@
                                     <div class="slideshow-text container p-3 p-xl-5">
                                         <h2
                                             class="text-uppercase section-title fw-normal mb-3 animate animate_fade animate_btt animate_delay-2">
-                                            Women's <br /><strong>ACCESSORIES</strong></h2>
-                                        <p class="mb-0 animate animate_fade animate_btt animate_delay-5">Accessories are
-                                            the best way to
-                                            update your look. Add a title edge with new styles and new colors, or go for
-                                            timeless pieces.</h6>
+                                            Cake <br /><strong>CELEBRATE</strong></h2>
+                                        <p class="mb-0 animate animate_fade animate_btt animate_delay-5">🎉 "Every celebration deserves a cake, and every cake deserves to be celebrated."</h6>
                                     </div>
                                 </div>
                                 <div class="slide-split_media position-relative">
@@ -49,11 +46,8 @@
                                     <div class="slideshow-text container p-3 p-xl-5">
                                         <h2
                                             class="text-uppercase section-title fw-normal mb-3 animate animate_fade animate_btt animate_delay-2">
-                                            Women's <br /><strong>ACCESSORIES</strong></h2>
-                                        <p class="mb-0 animate animate_fade animate_btt animate_delay-5">Accessories are
-                                            the best way to
-                                            update your look. Add a title edge with new styles and new colors, or go for
-                                            timeless pieces.</h6>
+                                            Cake <br /><strong>Sweet</strong></h2>
+                                        <p class="mb-0 animate animate_fade animate_btt animate_delay-5">🍰 "Life is full of uncertainties, but a slice of cake can always make it sweeter."</h6>
                                     </div>
                                 </div>
                                 <div class="slide-split_media position-relative">
@@ -73,11 +67,8 @@
                                     <div class="slideshow-text container p-3 p-xl-5">
                                         <h2
                                             class="text-uppercase section-title fw-normal mb-3 animate animate_fade animate_btt animate_delay-2">
-                                            Women's <br /><strong>ACCESSORIES</strong></h2>
-                                        <p class="mb-0 animate animate_fade animate_btt animate_delay-5">Accessories are
-                                            the best way to
-                                            update your look. Add a title edge with new styles and new colors, or go for
-                                            timeless pieces.</h6>
+                                            Cake <br /><strong>The Art of Cakes</strong></h2>
+                                        <p class="mb-0 animate animate_fade animate_btt animate_delay-5">Cakes are more than just desserts; they are masterpieces that bring joy to every occasion. From vibrant colors and intricate designs to classic flavors and modern twists, cakes have the power to turn moments into unforgettable memories. Whether it's a birthday, wedding, or simple celebration, a beautifully crafted cake is always the centerpiece of happiness.</h6>
                                     </div>
                                 </div>
                                 <div class="slide-split_media position-relative">
